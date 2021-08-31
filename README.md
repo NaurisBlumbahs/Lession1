@@ -6,4 +6,5 @@
 
 * Even smaller
 
-{Console.Print("Hello!")}
+# Hi, my name is Nauris
+
