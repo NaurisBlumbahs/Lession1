@@ -5,3 +5,5 @@
 ### Smaller
 
 * Even smaller
+
+{Console.Print("Hello!")}
